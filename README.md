@@ -1,6 +1,6 @@
 <h2 align="center"> Hey there , Sharan Prasath S here</h2>
 
-<p align = "center"><strong>I am a Computer science student who is passionate about developing user-friendly Web applications. ability to perform well in a team. Passionate to work in various fields such as Web Developing, Machine Learning, Deep Learning, as well as grow and develop my own skills as a coder.</strong></p>
+<p align = "center"><strong>I am a Computer science student in SRM University, Kattankulathur who is passionate about developing user-friendly Web applications. ability to perform well in a team. Passionate to work in various fields such as Web Developing, Machine Learning, Deep Learning, as well as grow and develop my own skills as a coder.</strong></p>
 
 ### Everything about me
 
