@@ -1,4 +1,4 @@
-<h2 style="text-align:center;"> Hey there , Sharan Prasath S here</h2>
+<h2 align="center"> Hey there , Sharan Prasath S here</h2>
 
 ### Everything about me
 
