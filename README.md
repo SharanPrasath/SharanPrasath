@@ -1,4 +1,4 @@
-<h2 align="center"> Hey there , Sharan Prasath S here</h2>
+<h2 align="center"> Hey there 👋 , Sharan Prasath S here</h2>
 
 <h3 align = "center"><strong>I am a Computer science student in SRM University, Kattankulathur who is passionate about developing user-friendly Web applications. ability to perform well in a team. Passionate to work in various fields such as Web Developing, Machine Learning, Deep Learning, as well as grow and develop my own skills as a coder.</strong></h3>
 <hr>
