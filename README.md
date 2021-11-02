@@ -3,7 +3,7 @@
 <h3 align = "center"><strong>I am a Computer science student in SRM University, Kattankulathur who is passionate about developing user-friendly Web applications. ability to perform well in a team. Passionate to work in various fields such as Web Developing, Machine Learning, Deep Learning, as well as grow and develop my own skills as a coder.</strong></h3>
 <hr>
 
-Visitor token no: ![Visitor Count](https://profile-counter.glitch.me/{SharanPrasath}/count.svg)
+<h2><strong>Visitor token no:</strong></h2> ![Visitor Count](https://profile-counter.glitch.me/{SharanPrasath}/count.svg)
 
 
 ### Everything about me
