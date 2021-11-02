@@ -16,7 +16,7 @@
 <table align="center">
   <tbody><tr>
     <td><h2><strong>Visitor's Token No --</strong></h2></td>
-    <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/99d6af6ebd4799c589c6fc12abe2a81f10c4ba9c3adf082dfa59f7a547061fd0/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7468656a617377696e3132332f636f756e742e737667"><img src="https://camo.githubusercontent.com/99d6af6ebd4799c589c6fc12abe2a81f10c4ba9c3adf082dfa59f7a547061fd0/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7468656a617377696e3132332f636f756e742e737667" alt="vistor count" height="30" data-canonical-src="https://profile-counter.glitch.me/SharanPrasath/count.svg" style="max-width: 100%;"></a></td>
+    <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/99d6af6ebd4799c589c6fc12abe2a81f10c4ba9c3adf082dfa59f7a547061fd0/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7468656a617377696e3132332f636f756e742e737667"><img src="https://camo.githubusercontent.com/99d6af6ebd4799c589c6fc12abe2a81f10c4ba9c3adf082dfa59f7a547061fd0/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7468656a617377696e3132332f636f756e742e737667" alt="vistor count" height="30" data-canonical-src="https://profile-counter.glitch.me/{SharanPrasath}/count.svg" style="max-width: 100%;"></a></td>
   </tr>
 </tbody></table>
 
