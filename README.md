@@ -4,7 +4,7 @@
 <hr>
 
 
-![Visitor Count](https://profile-counter.glitch.me/{SharanPrasath}/count.svg)
+<p align="center">![Visitor Count](https://profile-counter.glitch.me/{SharanPrasath}/count.svg)</p>
 
 
 ### Everything about me
