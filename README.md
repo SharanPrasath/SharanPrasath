@@ -23,3 +23,9 @@
 - 💬 Ask me about <strong>Web Design Ideas</strong>
 - 📫 How to reach me: sharanprasath3008@gmail.com
 - 😄 Pronouns: <strong>Web Developer</strong>
+
+
+### Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanPrasath)](https://github.com/anuraghazra/github-readme-stats)
+
