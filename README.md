@@ -2,7 +2,7 @@
 
 <p align = "center"><strong>I am a Computer science student in SRM University, Kattankulathur who is passionate about developing user-friendly Web applications. ability to perform well in a team. Passionate to work in various fields such as Web Developing, Machine Learning, Deep Learning, as well as grow and develop my own skills as a coder.</strong></p>
 <hr>
-![](https://komarev.com/ghpvc/?username=SharanPrasath&label=PROFILE+VIEWS)
+<p>![](https://komarev.com/ghpvc/?username=SharanPrasath&label=PROFILE+VIEWS)</p>
 
 
 ### Everything about me
