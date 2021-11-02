@@ -28,7 +28,7 @@
 ### Github Stats
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=stars&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanPrasath&hide=stars&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharanPrasath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
