@@ -28,4 +28,5 @@
 ### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanPrasath)](https://github.com/anuraghazra/github-readme-stats)
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/15da2064995c5d856a7e9f976215a572d2edc1bbf05d6d4a074b070e6ac8d2ef/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7468656a617377696e313233266c61796f75743d636f6d70616374267468656d653d68696768636f6e7472617374266c616e67735f636f756e743d36"><img height="160em" src="https://camo.githubusercontent.com/15da2064995c5d856a7e9f976215a572d2edc1bbf05d6d4a074b070e6ac8d2ef/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7468656a617377696e313233266c61796f75743d636f6d70616374267468656d653d68696768636f6e7472617374266c616e67735f636f756e743d36" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanPrasath&amp;layout=compact&amp;theme=highcontrast&amp;langs_count=6" style="max-width: 100%;"></a>
 
