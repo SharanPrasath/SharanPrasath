@@ -9,7 +9,11 @@
 </p>
 <hr>
 
+### Profile Statistics
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanPrasath&hide=stars&show_icons=true&theme=radical)
+<br>
 
 
 
@@ -23,11 +27,7 @@
 - 😄 Pronouns: <strong>Web Developer</strong>
 
 
-### Github Stats
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanPrasath&hide=stars&show_icons=true&theme=radical)
-<br>
 
 
 ## Skills Learnt and Learning.....
