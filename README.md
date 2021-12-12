@@ -12,7 +12,7 @@
 ### Profile Statistics
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanPrasath&hide=stars&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanPrasath&show_icons=true&theme=radical)
 <br>
 
 
