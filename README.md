@@ -9,10 +9,6 @@
 </p>
 <hr>
 
-### Profile Statistics
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SharanPrasath&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 
