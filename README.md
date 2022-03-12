@@ -23,7 +23,7 @@
 - 😄 Pronouns: <strong>Web Developer</strong>
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanPrasath)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills Learnt and Learning.....
